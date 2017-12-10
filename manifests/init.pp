@@ -1,7 +1,3 @@
-#class s3datacopy {
-# }
-
-
 # bucket and path parameters are mandatory
 
 define s3datacopy(
